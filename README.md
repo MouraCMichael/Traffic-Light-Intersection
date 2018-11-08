@@ -4,8 +4,7 @@ A project written in C-programming, created to simulate the functions of a road 
 
 # Notes
 Written in C-Programming in Eclipse IDE to impliment the Texas Instruments MSP432 32-bit micorcontroller.  Inputs recieved by 
-the MSP432 includes 8 buttons, 1 switch, and 4 potentiomiters.  Outputs driven include 1 stepper motor, Arduino Uno (speaker 
-for playing music), LCD display, LED traffic lights, LED street lights.  
+the MSP432 includes 8 buttons, 1 switch, and 4 potentiomiters.  Outputs driven include 1 stepper motor, 1 servo, 1 Arduino Uno (drives speaker for playing music), LCD display, LED traffic lights, LED street lights.  
 
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
