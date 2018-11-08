@@ -16,15 +16,15 @@ Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://
 
 <p float="left">
 
-<img width="400" height=”550” alt="screen shot 2018-11-05 at 10 17 37 am" src="https://user-images.githubusercontent.com/37875517/48007719-3882db80-e0e6-11e8-994a-bb0979bfb3f7.png">
-
-<br/>
-<br/>
-
-
 <img width="432" height=”600” alt="screen shot 2018-11-08 at 5 06 31 pm" src="https://user-images.githubusercontent.com/37875517/48230627-b3175980-e379-11e8-9ca0-ac99314587ce.png">
 
+<br/>
+<br/>
+
 <img width="432" height=”600” alt="screen shot 2018-11-08 at 5 06 43 pm" src="https://user-images.githubusercontent.com/37875517/48230639-be6a8500-e379-11e8-86dc-ed601cf637d5.png">
+
+<br/>
+<br/>
 
 <img width="432" height=”600” alt="screen shot 2018-11-08 at 5 06 52 pm" src="https://user-images.githubusercontent.com/37875517/48230646-c62a2980-e379-11e8-8b1c-557c45736c1f.png">
 
