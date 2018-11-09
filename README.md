@@ -1,5 +1,5 @@
 # Simulated Intersection
-A project written in C-programming, created to simulate the functions of a road intersection.
+An individually created project written in C-programming, created to simulate the functions of a road intersection.
 
 
 # Notes
