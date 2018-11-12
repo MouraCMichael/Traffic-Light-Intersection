@@ -3,6 +3,8 @@ An individually created project written in C-programming, created to simulate th
 
 
 # Notes
+Custom built, hand painted, TIG welded, fully enclosed multilayer design.
+
 Written in C-Programming in Eclipse IDE to impliment the Texas Instruments MSP432 32-bit micorcontroller.  Inputs recieved by 
 the MSP432 includes 8 buttons, 1 switch, and 4 potentiomiters.  Outputs driven include 1 stepper motor, 1 servo, 1 Arduino Uno (drives speaker for playing music), LCD display, LED traffic lights, LED street lights.  
 
