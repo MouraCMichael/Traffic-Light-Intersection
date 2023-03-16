@@ -1,6 +1,7 @@
-# Simulated Intersection
+# Traffic Light Intersection
 An individually created project written in C-programming, created to simulate the functions of a road intersection.
 
+<br/>
 
 # Description
 A custom built, hand painted, soldered, TIG welded, fully enclosed multilayer design.
@@ -16,6 +17,8 @@ Programed and designed a fully functioning, model intersection to display in Gra
 •	Implemented 8 GPIO interrupts and handers 
 •	Over 800 solders performed
 •	Troubleshot wiring harnesses, solders, MCU pins, and power supplies
+
+<br/>
 
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
