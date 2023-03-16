@@ -2,11 +2,20 @@
 An individually created project written in C-programming, created to simulate the functions of a road intersection.
 
 
-# Notes
+# Description
 A custom built, hand painted, soldered, TIG welded, fully enclosed multilayer design.
 
 Written in C-Programming in Eclipse IDE to impliment the Texas Instruments MSP432 32-bit micorcontroller.  Inputs recieved by 
 the MSP432 includes 8 buttons, 1 switch, and 4 potentiomiters.  Outputs include: 1 stepper motor, 1 servo, 1 Arduino Uno (drives speaker for playing music), LCD display, 24 LED traffic lights, and 5 LED street lights.  
+
+Programed and designed a fully functioning, model intersection to display in Grand Valley’s Engineering Project Day.  
+•	Used C programming in Eclipse IDE 
+•	Debugged software using breakpoints, watch points, and accessing registers  
+•	Used bit manipulation to control 37 LEDs, 1 servo, 1 LCD, and 1 stepper motor
+•	Implemented 4 MCU timers 
+•	Implemented 8 GPIO interrupts and handers 
+•	Over 800 solders performed
+•	Troubleshot wiring harnesses, solders, MCU pins, and power supplies
 
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
