@@ -1,5 +1,5 @@
 ## Traffic Light Intersection
-Embedded systems project written in C-programming, created to simulate the functions of a road intersection. Displayed on Grand Valley’s Engineering Project Day
+Embedded systems project written in C-programming, created to simulate the functions of a road intersection. Displayed in 2017 on Grand Valley’s Engineering Project Day.
 
 <br/>
 
