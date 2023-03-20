@@ -14,14 +14,14 @@ A custom built fully enclosed intersection model that was meticulously construct
 Written in C-Programming in Eclipse IDE to impliment the Texas Instruments MSP432 32-bit micorcontroller.  Inputs recieved by 
 the MSP432 includes 8 buttons, 1 switch, and 4 potentiomiters.  Outputs include: 1 stepper motor, 1 servo, 1 Arduino Uno (drives speaker for playing music), LCD display, 24 LED traffic lights, and 5 LED street lights.  
 
-Programed and designed a fully functioning, model intersection to display in Grand Valley’s Engineering Project Day.  
-•	Used C programming in Eclipse IDE 
-•	Debugged software using breakpoints, watch points, and accessing registers  
-•	Used bit manipulation to control 37 LEDs, 1 servo, 1 LCD, and 1 stepper motor
-•	Implemented 4 MCU timers 
-•	Implemented 8 GPIO interrupts and handers 
-•	Over 800 solders performed with no connection issues
-•	Troubleshot wiring harnesses, solders, MCU pins, and power supplies
+Programed and designed a fully functioning, model intersection to display in Grand Valley’s Engineering Project Day.  <br/>
+•	Used C programming in Eclipse IDE <br/>
+•	Debugged software using breakpoints, watch points, and accessing registers <br/>
+•	Used bit manipulation to control 37 LEDs, 1 servo, 1 LCD, and 1 stepper motor <br/>
+•	Implemented 4 MCU timers <br/>
+•	Implemented 8 GPIO interrupts and handers <br/>
+•	Over 800 solders performed with no connection issues <br/>
+•	Troubleshot wiring harnesses, solders, MCU pins, and power supplies 
 
 <br/>
 
