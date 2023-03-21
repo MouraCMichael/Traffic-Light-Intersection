@@ -36,32 +36,32 @@ Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://
 <img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/48232128-9a5d7280-e37e-11e8-99d7-0c5005894298.png">
 
 <br/>
+
+<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 11 21 pm" src="https://user-images.githubusercontent.com/37875517/48230838-5cf6e600-e37a-11e8-8280-5487c49d20c9.png">
+
+<br/>
   
-<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 13 10 pm" src="https://user-images.githubusercontent.com/37875517/48230892-80ba2c00-e37a-11e8-8df7-2fc8699390d9.png">
+<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 06 31 pm" src="https://user-images.githubusercontent.com/37875517/48230627-b3175980-e379-11e8-9ca0-ac99314587ce.png">
 
 <br/>
 
-<img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/48230627-b3175980-e379-11e8-9ca0-ac99314587ce.png">
+<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 06 43 pm" src="https://user-images.githubusercontent.com/37875517/48230639-be6a8500-e379-11e8-86dc-ed601cf637d5.png">
 
 <br/>
 
-<img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/48230639-be6a8500-e379-11e8-86dc-ed601cf637d5.png">
+<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 06 52 pm" src="https://user-images.githubusercontent.com/37875517/48230646-c62a2980-e379-11e8-8b1c-557c45736c1f.png">
 
 <br/>
 
-<img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/48230646-c62a2980-e379-11e8-8b1c-557c45736c1f.png">
+<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 07 10 pm" src="https://user-images.githubusercontent.com/37875517/48230653-cde9ce00-e379-11e8-9caa-be7b16d79ea2.png">
 
 <br/>
 
-<img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/48230653-cde9ce00-e379-11e8-9caa-be7b16d79ea2.png">
+<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 07 21 pm" src="https://user-images.githubusercontent.com/37875517/48230659-d3dfaf00-e379-11e8-8cc7-232a0380ddfd.png">
 
 <br/>
 
-<img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/48230659-d3dfaf00-e379-11e8-8cc7-232a0380ddfd.png">
-
-<br/>
-
-<img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/48230663-d93cf980-e379-11e8-8eba-5e1ef314e392.png">
+<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 07 29 pm" src="https://user-images.githubusercontent.com/37875517/48230663-d93cf980-e379-11e8-8eba-5e1ef314e392.png">
 
 <br/>
 
@@ -141,7 +141,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://
 
 <br/>
 
-<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 11 21 pm" src="https://user-images.githubusercontent.com/37875517/48230838-5cf6e600-e37a-11e8-8280-5487c49d20c9.png">
+
 
 <br/>
 
@@ -161,7 +161,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://
 
 <br/>
 
-
+<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 13 10 pm" src="https://user-images.githubusercontent.com/37875517/48230892-80ba2c00-e37a-11e8-8df7-2fc8699390d9.png">
 
 <br/>
 
