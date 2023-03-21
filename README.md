@@ -36,6 +36,10 @@ Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://
 <img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/48232128-9a5d7280-e37e-11e8-99d7-0c5005894298.png">
 
 <br/>
+  
+<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 13 10 pm" src="https://user-images.githubusercontent.com/37875517/48230892-80ba2c00-e37a-11e8-8df7-2fc8699390d9.png">
+
+<br/>
 
 <img width="432" height=”600” src="https://user-images.githubusercontent.com/37875517/48230627-b3175980-e379-11e8-9ca0-ac99314587ce.png">
 
@@ -157,7 +161,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://
 
 <br/>
 
-<img width="432" height=”600” alt="screen shot 2018-11-08 at 5 13 10 pm" src="https://user-images.githubusercontent.com/37875517/48230892-80ba2c00-e37a-11e8-8df7-2fc8699390d9.png">
+
 
 <br/>
 
